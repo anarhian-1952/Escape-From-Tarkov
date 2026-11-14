@@ -198,4 +198,4 @@ This repository serves as the official landing page for Escape from Tarkov. The 
 **Get the most recent version of Escape from Tarkov today!**
 
 ---
-**Last updated:** 2026-11-14 02:09:17 UTC
+**Last updated:** 2026-11-14 10:00:11 UTC
